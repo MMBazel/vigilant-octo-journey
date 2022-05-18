@@ -1,2 +1,3 @@
 # vigilant-octo-journey
-Repo for project for MLOps Zoomcamp
+
+This is an example project based on DataTalkClub's MLOps Zoomcamp. 
